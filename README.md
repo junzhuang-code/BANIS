@@ -3,7 +3,7 @@
 ### Authors: Jun Zhuang, Dali Wang
 
 ### Files:
-"Data" files is used to store preprocessed dataset \
+"Data" directory should be created to store preprocessed dataset \
 "preproc.py" is used for preprocessing \
 "utils.py" contains utilized functions \
 "banis_model.py" is the model architecture \
