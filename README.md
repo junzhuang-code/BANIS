@@ -2,6 +2,9 @@
 
 ### Authors: Jun Zhuang, Dali Wang
 
+### Paper:
+GEOMETRICALLY MATCHED MULTI-SOURCE MICROSCOPIC IMAGE SYNTHESISUSING BIDIRECTIONAL ADVERSARIAL NETWORKS
+
 ### Files:
 "Data" directory should be created to store preprocessed dataset \
 "preproc.py" is used for preprocessing \
