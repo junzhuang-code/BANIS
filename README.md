@@ -1,6 +1,6 @@
 # Bidirectional Adversarial Networks for microscopic Image Synthesis (BANIS)
 
-### Author: Jun Zhuang, Dali Wang
+### Authors: Jun Zhuang, Dali Wang
 
 ### Files:
 "Data" files is used to store preprocessed dataset \
