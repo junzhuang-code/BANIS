@@ -3,7 +3,7 @@
 ### Authors: Jun Zhuang, Dali Wang
 
 ### Paper:
-GEOMETRICALLY MATCHED MULTI-SOURCE MICROSCOPIC IMAGE SYNTHESISUSING BIDIRECTIONAL ADVERSARIAL NETWORKS
+[GEOMETRICALLY MATCHED MULTI-SOURCE MICROSCOPIC IMAGE SYNTHESIS USING BIDIRECTIONAL ADVERSARIAL NETWORKS](https://arxiv.org/abs/2010.13308)
 
 ### Files:
 "Data" directory should be created to store preprocessed dataset \
@@ -13,7 +13,7 @@ GEOMETRICALLY MATCHED MULTI-SOURCE MICROSCOPIC IMAGE SYNTHESISUSING BIDIRECTIONA
 "main.py" is the main function
 
 ### Dataset:
-C. elegans microscopy images
+*C. elegans* microscopy images
 
 ### Executions:
 1. Preprocess the dataset and get the pkl files.
